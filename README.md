@@ -6,6 +6,7 @@ The dataset was retrieved from the UCI Machine Learning Repository:<br>
 - https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant
 <br>
 The dataset includes 5 fields (4 independent variables and 1 dependant variable.
+
 The 4 independent variables are as follows:
 * Ambient Temperature (AT)
 * Exhaust Vacuum (V)
