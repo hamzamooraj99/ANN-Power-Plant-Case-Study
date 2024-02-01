@@ -7,10 +7,10 @@ The dataset was retrieved from the UCI Machine Learning Repository:<br>
 <br>
 The dataset includes 5 fields (4 independent variables and 1 dependant variable.
 The 4 independent variables are as follows:
-- Ambient Temperature (AT)
-- Exhaust Vacuum (V)
-- Ambient Pressure (AP)
-- Relative Humidity (RH)
+* Ambient Temperature (AT)
+* Exhaust Vacuum (V)
+* Ambient Pressure (AP)
+* Relative Humidity (RH)
 All variables were used to predict the dependant variable - The Net Hourly Electrical Energy Output (PE) of the plant.
 
 ## Implementation
