@@ -11,7 +11,9 @@ The 4 independent variables are as follows:
 * Ambient Temperature (AT)
 * Exhaust Vacuum (V)
 * Ambient Pressure (AP)
-* Relative Humidity (RH)  
+* Relative Humidity (RH)
+
+
 All variables were used to predict the dependant variable - The Net Hourly Electrical Energy Output (PE) of the plant.
 
 ## Implementation
