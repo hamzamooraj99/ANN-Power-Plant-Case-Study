@@ -18,3 +18,6 @@ All variables were used to predict the dependant variable - The Net Hourly Elect
 
 ## Implementation
 I made use of a python notebook (.ipynb) to implement and train this ANN model. The model was made using the Tensorflow 2.0 library in Python.
+
+### Citation
+Tfekci,Pnar and Kaya,Heysem. (2014). Combined Cycle Power Plant. UCI Machine Learning Repository. https://doi.org/10.24432/C5002N.
